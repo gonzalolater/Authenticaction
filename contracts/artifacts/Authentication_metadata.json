@@ -60,10 +60,11 @@
 	},
 	"sources": {
 		"contracts/Authentication.sol": {
-			"keccak256": "0x78c026d604d0057eaab2509311a476d2ea45a8c23fc8c97311f1d661a8519300",
+			"keccak256": "0xb006ec9cda0a37f59c6840ddc583bc24232a8005c2c24dd7d1600f3644edf30b",
+			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://50d0ebe441eefa05ec7b50ed08c37a6fb1694bf5a13b2d95ce95a34647e4d752",
-				"dweb:/ipfs/QmSy4RkBpU557dygoP4SWsiiws9wKa3buTRc7ZMUQ2CU69"
+				"bzz-raw://0e541fcd25a9d7d782d590e539dae00fa108e55992b704b0a2ea28608e5cdecd",
+				"dweb:/ipfs/QmTE8bDPRe5zqUTTVSYMacaWJiR8Ec7bULfe31turwZhXL"
 			]
 		}
 	},
